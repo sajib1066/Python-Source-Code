@@ -1,0 +1,2 @@
+git remote add origin https://github.com/sajib1066/Python-Source-Code.git
+git push -u origin master
